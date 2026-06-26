@@ -1,0 +1,47 @@
+# ─────────────────────────────────────────
+#  AI Meeting Assistant — requirements.txt
+# ─────────────────────────────────────────
+
+# --- Audio Download (YouTube) ---
+yt-dlp
+
+# --- Audio Processing ---
+ffmpeg-python
+pydub
+
+# --- Transcription (local Whisper) ---
+openai-whisper
+torch
+torchaudio
+
+# --- Translation (Hindi → English) ---
+deep-translator
+
+# --- LangChain LCEL + Mistral ---
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+mistralai
+
+# --- RAG: Vector Store ---
+chromadb
+
+# --- RAG: Embeddings (HuggingFace) ---
+sentence-transformers
+langchain-huggingface
+
+# --- RAG: Document Handling ---
+tiktoken
+
+# --- Streamlit UI ---
+streamlit
+
+# --- Export: PDF ---
+fpdf2
+
+# --- Export: TXT (stdlib, no install needed) ---
+
+# --- Utilities ---
+python-dotenv
+numpy
