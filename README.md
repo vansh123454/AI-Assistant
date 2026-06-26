@@ -1,1 +1,1 @@
-# This is AI Video Assistant With RAG Project
+# AI Video Assistant With RAG Project
