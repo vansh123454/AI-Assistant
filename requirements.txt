@@ -7,7 +7,6 @@ yt-dlp
 
 # --- Audio Processing ---
 ffmpeg-python
-# pydub
 
 # --- Transcription (local Whisper) ---
 openai-whisper
